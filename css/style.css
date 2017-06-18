@@ -1,0 +1,46 @@
+.nav
+{
+	padding-top:10px;
+	padding-left:100px;
+}
+
+
+.centered 
+{
+	padding-top:10px;
+    text-align: center;
+    
+}
+    
+
+
+.centeredAd .ad1 {
+    width:  300px;
+    height: 169px;
+}
+
+.centeredAd .ad2 {
+    width:  368px;
+    height: 290px;
+}
+
+.centeredAd .ad3 {
+	padding-top:5px;
+    width:  400px;
+    height: 90px;
+}
+
+.widgets
+{
+	padding: 5px;
+}
+
+.a
+{
+    text-align: justify
+}
+
+.text
+{
+	text-align: justify;
+}
